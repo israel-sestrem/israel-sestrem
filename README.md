@@ -67,50 +67,6 @@ Gmail: israelricardoetc@gmail.com
 
 <tr>
 
-
-<td>📲⌚</td>
-<td>Mobile/Smartwatch</td>
-<td>
-
-![Android](https://img.shields.io/badge/-Android%20java-black?style=flat&logo=Android&logoColor=green)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Android%20kotlin-black?style=flat&logo=kotlin&logoColor=green)&nbsp;
-![ReactNative](https://img.shields.io/badge/-React%20Native-black?style=flat&logo=react)&nbsp;
-![Swift](https://img.shields.io/badge/-IOS.Swift-black?style=flat&logo=Swift)&nbsp;
-
-</td>
-
-</tr>
-
-<tr>
-
-
-<td>👾🦾</td>
-<td>Robotics</td>
-<td>
-
-![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat&logo=Arduino&logoColor=green)&nbsp;
-![Lego Mindstorms](https://img.shields.io/badge/-Lego%20Mindstorms-black?style=flat&logo=Alibaba+Cloud&logoColor=yellow)&nbsp;
-
-</td>
-
-</tr>
-
-<tr>
-
-
-<td>🎮</td>
-<td>Games</td>
-<td>
-
-![Game maker](https://img.shields.io/badge/-GameMaker-black?style=flat&logo=atom&logoColor=green)&nbsp;
-![Android](https://img.shields.io/badge/-Android%20java-black?style=flat&logo=Android&logoColor=green)&nbsp;
-
-</td>
-
-</tr>
-
-<tr>
-
 <td >🪑🎲</td>
 <td >Database</td>
 <td>
@@ -168,10 +124,6 @@ Gmail: israelricardoetc@gmail.com
  <td>
 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)&nbsp;
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat&logo=heroku)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)&nbsp;
-![Firebase](https://img.shields.io/badge/-Google%20domains-black?style=flat&logo=google-domains)&nbsp;
-[![Google Play](https://img.shields.io/badge/-Google%20play-black?style=flat&logo=google-play)](https://play.google.com/store/apps/dev?id=4624325070796601602)&nbsp;
-
+  
 </td>
 </tr>
