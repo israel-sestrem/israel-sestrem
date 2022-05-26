@@ -4,6 +4,8 @@
 
 <hr>
 
+<h2>Contact me</h2>
+
 [![Instagram](https://img.shields.io/badge/-Instagram-ff0000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/israelrs_)&nbsp;
 [![Gmail](https://img.shields.io/badge/-Email-green?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=israelricardoetc@gmail.com)&nbsp;
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-ricardo-sestrem-a734421b9)&nbsp;
