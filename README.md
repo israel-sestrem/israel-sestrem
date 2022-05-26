@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/israel-ricardo-sestrem-a734421b9" target="blank"><img width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" / ></a>
+<a href="https://www.linkedin.com/in/israel-ricardo-sestrem-a734421b9" target="_blank"><img width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" / ></a>
 <a href="https://www.instagram.com/israelrs_"> <img width="50px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" /> </a>
 </p>
 
