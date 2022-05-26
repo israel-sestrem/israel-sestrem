@@ -16,7 +16,7 @@ Gmail: israelricardoetc@gmail.com
 
 <hr>
 
-## 🎓 knowledge 
+## 🎓 Knowledge 
 <table> 
 <tbody style="text-align:center">
 <tr>
