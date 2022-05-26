@@ -1,7 +1,7 @@
 <h1>Hello There👋</h1>
 <h3 align="center">I'm a passionate back-end developer student from Blumenau/Santa Catarina</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%00ff00width=500&height=80&size=20&multiline=true&lines=Hi,+I'm+Israel+Ricardo+Sestrem;Back-end+Developer+Student;Attending+Courses+on+Proway)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=green&width=500&height=80&size=20&multiline=true&lines=Hi,+I'm+Israel+Ricardo+Sestrem;Back-end+Developer+Student;Attending+Courses+on+Proway)](https://git.io/typing-svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
