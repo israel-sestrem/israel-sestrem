@@ -27,7 +27,7 @@ Gmail: israelricardoetc@gmail.com
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=Java)&nbsp;
 ![C](https://img.shields.io/badge/-C-black?style=flat&logo=C&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat&logo=C+sharp&logoColor=white)&nbsp;
-![Php](https://img.shields.io/packagist/php-v/israel-sestrem/israel-sestrem))&nbsp;
+![Php](https://img.shields.io/packagist/php-v/israel-sestrem/israel-sestrem?color=black&label=Php&logo=php))&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)&nbsp;
 
 </td>
