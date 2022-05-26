@@ -4,15 +4,12 @@
 
 <hr>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/israel-ricardo-sestrem-a734421b9"><img width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" / ></a>
-<a href="https://www.instagram.com/israelrs_"> <img width="50px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" /> </a>
-</p>
+[![Instagram](https://img.shields.io/badge/-Instagram-ff0000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/israelrs_)&nbsp;
+[![Gmail](https://img.shields.io/badge/-Email-green?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=rubemoliota@gmail.com&su=Contato+-+via+perfil+github&body=Ol%C3%A1+Rubem+Tudo+bem?&tf=cm)&nbsp;
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-ricardo-sestrem-a734421b9)&nbsp;
 
-<hr>
 
-Gmail: israelricardoetc@gmail.com
+israelricardoetc@gmail.com
 
 <hr>
 
