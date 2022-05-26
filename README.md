@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=green&width=500&height=25&size=20&multiline=true&lines=I'm+Israel+Ricardo+Sestrem)](https://git.io/typing-svg)
 
-<tr>
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,5 +16,162 @@ Gmail: israelricardoetc@gmail.com
 
 <hr>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🎓 knowledge 
+<table> 
+<tbody style="text-align:center">
+<tr>
+<td >👨🏻‍💻</td>
+<td>Backend</td>
+<td>
+
+![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=Java)&nbsp;
+![C](https://img.shields.io/badge/-C-black?style=flat&logo=C&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-black?style=flat&logo=C+sharp&logoColor=white)&nbsp;
+![Delphi](https://img.shields.io/badge/-Delphi-black?style=flat&logo=Delphi&logoColor=ff0000)&nbsp;
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)&nbsp;
+![Npm](https://img.shields.io/badge/-Npm-black?style=flat&logo=npm)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=postman)&nbsp;
+![Swagger](https://img.shields.io/badge/-Swagger-black?style=flat&logo=Swagger)&nbsp;
+![cUrl](https://img.shields.io/badge/-cUrl-black?style=flat&logo=cUrl)&nbsp;
+
+</td>
+</tr>
+
+<tr>
+<td>👁‍🗨</td>
+<td>Frontend</td>
+<td>
+
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-black?style=flat&logo=sass)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat&logo=markdown)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)&nbsp;
+![Materialize](https://img.shields.io/badge/-Materialize-black?style=flat&logo=Material-design&logoColor=red)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)&nbsp;
+![Json](https://img.shields.io/badge/-Json-black?style=flat&logo=json)&nbsp;
+![Jquery](https://img.shields.io/badge/-Jquery-black?style=flat&logo=jquery)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat&logo=typescript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)&nbsp;
+![Npm](https://img.shields.io/badge/-Npm-black?style=flat&logo=npm)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat&logo=angular&logoColor=red)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat&logo=vue.js)&nbsp;
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)&nbsp;
+![CodePen](https://img.shields.io/badge/-CodePen-black?style=flat&logo=CodePen)&nbsp;
+
+
+</td>
+
+</tr>
+
+<tr>
+
+
+<td>📲⌚</td>
+<td>Mobile/Smartwatch</td>
+<td>
+
+![Android](https://img.shields.io/badge/-Android%20java-black?style=flat&logo=Android&logoColor=green)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Android%20kotlin-black?style=flat&logo=kotlin&logoColor=green)&nbsp;
+![ReactNative](https://img.shields.io/badge/-React%20Native-black?style=flat&logo=react)&nbsp;
+![Swift](https://img.shields.io/badge/-IOS.Swift-black?style=flat&logo=Swift)&nbsp;
+
+</td>
+
+</tr>
+
+<tr>
+
+
+<td>👾🦾</td>
+<td>Robotics</td>
+<td>
+
+![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat&logo=Arduino&logoColor=green)&nbsp;
+![Lego Mindstorms](https://img.shields.io/badge/-Lego%20Mindstorms-black?style=flat&logo=Alibaba+Cloud&logoColor=yellow)&nbsp;
+
+</td>
+
+</tr>
+
+<tr>
+
+
+<td>🎮</td>
+<td>Games</td>
+<td>
+
+![Game maker](https://img.shields.io/badge/-GameMaker-black?style=flat&logo=atom&logoColor=green)&nbsp;
+![Android](https://img.shields.io/badge/-Android%20java-black?style=flat&logo=Android&logoColor=green)&nbsp;
+
+</td>
+
+</tr>
+
+<tr>
+
+<td >🪑🎲</td>
+<td >Database</td>
+<td>
+
+![MySql](https://img.shields.io/badge/-MySql-black?style=flat&logo=mysql)&nbsp;
+![Oracle](https://img.shields.io/badge/-Oracle-black?style=flat&logo=oracle&logoColor=red)&nbsp;
+![Sqlite](https://img.shields.io/badge/-Sqlite-black?style=flat&logo=sqlite)&nbsp;
+![SqlServer](https://img.shields.io/badge/-SqlServer-black?style=flat&logo=microsoft-Sql-Server)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)&nbsp;
+![PostgreSql](https://img.shields.io/badge/-PostgreSql-black?style=flat&logo=postgresql)&nbsp;
+
+</td>
+</tr>
+
+<tr>
+
+<td>🔧</td>
+<td>IDE</td>
+<td>
+
+![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat&logo=eclipse-ide&logoColor=orange)
+![Spring Tool Suite](https://img.shields.io/badge/-Spring%20Tool%20Suite-black?style=flat&logo=Spring&logoColor=green)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=flat&logo=Android+Studio&logoColor=green)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=flat&logo=visual-studio&logoColor=purple)&nbsp;
+![XCode](https://img.shields.io/badge/-XCode-black?style=flat&logo=xcode)&nbsp;
+![Intelij](https://img.shields.io/badge/-Intelij-black?style=flat&logo=Jetbrains&logoColor=white)&nbsp;
+![PyCharm](https://img.shields.io/badge/-Pycharm-black?style=flat&logo=Pycharm&logoColor=blue)&nbsp;
+![VisualG](https://img.shields.io/badge/-VisualG-black?style=flat&logo=v&logoColor=a66321)&nbsp;
+![Repl.it](https://img.shields.io/badge/-Repl.it-black?style=flat&logo=replit)&nbsp;
+
+</td>
+</tr>
+
+<tr>
+
+<td>💾</td>
+<td>Version</td>
+<td>
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)&nbsp;
+![GitLab](https://img.shields.io/badge/-Git%20Lab-black?style=flat&logo=gitlab)&nbsp;
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-black?style=flat&logo=bitbucket)&nbsp;
+![SourceTree](https://img.shields.io/badge/-SourceTree-black?style=flat&logo=sourcetree&logoColor=blue)&nbsp;
+
+</td>
+</tr>
+
+<tr>
+
+<td>🏁</td>
+<td>Deploy</td>
+
+ <td>
+
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)&nbsp;
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat&logo=heroku)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)&nbsp;
+![Firebase](https://img.shields.io/badge/-Google%20domains-black?style=flat&logo=google-domains)&nbsp;
+[![Google Play](https://img.shields.io/badge/-Google%20play-black?style=flat&logo=google-play)](https://play.google.com/store/apps/dev?id=4624325070796601602)&nbsp;
+
+</td>
+</tr>
