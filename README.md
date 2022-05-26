@@ -1,6 +1,8 @@
 <h1 align="center">Hello 👋, I'm Israel Ricardo Sestrem</h1>
 <h3 align="center">I'm a passionate back-end developer student from Blumenau/Santa Catarina</h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23f00&width=500&height=80&size=20&multiline=true&lines=Hi,+I'm+Rubem+Oliota;Senior+analist+at+Capgemini;Multistack+instructor+on+Proway+entra21)](https://git.io/typing-svg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/israel-sestrem-a734421b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/israel-sestrem-a734421b9/" height="30" width="40" /></a>
